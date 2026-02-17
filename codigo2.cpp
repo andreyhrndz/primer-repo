@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  string name = "Andrey";
+  string name = "Tete";
 
   cout<< "Hola mi nombre es " + name <<endl;
   

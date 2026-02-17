@@ -3,6 +3,6 @@
 using namespace std;    
 
 int main() {
-    cout << "Hola mi nombre es Andrey Tijerino" << endl;
+    cout << "Mi nombre es Andrey Josue" << endl;
     return 0;
 }
